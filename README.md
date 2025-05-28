@@ -13,4 +13,4 @@ Live link: http://evklid.host1438437.hostland.pro/
 
 ## Page screenshot
 
-![Evklid screen](http://evklid.host1438437.hostland.pro/Screenshot-evklid.jpg)
+![Evklid screen](http://evklid.host1438437.hostland.pro/design/Screenshot-evklid.jpg)
